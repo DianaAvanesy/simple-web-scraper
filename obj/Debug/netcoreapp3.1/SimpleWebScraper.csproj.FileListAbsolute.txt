@@ -1,0 +1,11 @@
+C:\Users\Diana\source\repos\SimpleWebScraper\bin\Debug\netcoreapp3.1\SimpleWebScraper.deps.json
+C:\Users\Diana\source\repos\SimpleWebScraper\bin\Debug\netcoreapp3.1\SimpleWebScraper.dll
+C:\Users\Diana\source\repos\SimpleWebScraper\bin\Debug\netcoreapp3.1\SimpleWebScraper.pdb
+C:\Users\Diana\source\repos\SimpleWebScraper\obj\Debug\netcoreapp3.1\SimpleWebScraper.AssemblyInfoInputs.cache
+C:\Users\Diana\source\repos\SimpleWebScraper\obj\Debug\netcoreapp3.1\SimpleWebScraper.AssemblyInfo.cs
+C:\Users\Diana\source\repos\SimpleWebScraper\obj\Debug\netcoreapp3.1\SimpleWebScraper.dll
+C:\Users\Diana\source\repos\SimpleWebScraper\obj\Debug\netcoreapp3.1\SimpleWebScraper.pdb
+C:\Users\Diana\source\repos\SimpleWebScraper\bin\Debug\netcoreapp3.1\SimpleWebScraper.exe
+C:\Users\Diana\source\repos\SimpleWebScraper\bin\Debug\netcoreapp3.1\SimpleWebScraper.runtimeconfig.json
+C:\Users\Diana\source\repos\SimpleWebScraper\bin\Debug\netcoreapp3.1\SimpleWebScraper.runtimeconfig.dev.json
+C:\Users\Diana\source\repos\SimpleWebScraper\obj\Debug\netcoreapp3.1\SimpleWebScraper.csprojAssemblyReference.cache
